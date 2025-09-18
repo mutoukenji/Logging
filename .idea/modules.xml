@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Logging.iml" filepath="$PROJECT_DIR$/Logging.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/log4j-android/log4j-android.iml" filepath="$PROJECT_DIR$/log4j-android/log4j-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Logging.iml" filepath="$PROJECT_DIR$/.idea/modules/Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Logging.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Logging.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Logging.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Logging.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Logging.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Logging.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Logging.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Logging.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-android/Logging.log4j-android.unitTest.iml" />
     </modules>
   </component>
 </project>
